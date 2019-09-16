@@ -1,7 +1,7 @@
 # TinyCircuits Whisker 0.96 Screen OLED
 # AST1032 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1032 Rev 1 PCB. This is a whisker board which features a 128x64 Blue Monochrome OLED display which can be controlled using the TinyCircuits TinierScreen library.
+The design files are located under design_files/ for the TinyCircuits AST1032 Rev 1 PCB. This is a whisker board which features a 128x64 White Monochrome OLED display which can be controlled using the TinyCircuits TinierScreen library.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
